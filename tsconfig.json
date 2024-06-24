@@ -7,7 +7,7 @@
     ".plasmo/index.d.ts",
     "./**/*.ts",
     "./**/*.tsx"
-  ],
+, "src/components/popup.tsx", "src/popup.tsx"  ],
   "compilerOptions": {
     "paths": {
       "~*": [
